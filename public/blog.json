@@ -1,0 +1,58 @@
+ 
+[
+    {
+      "id": 1,
+      "cover": "https://i.ibb.co/7npJC4v/Rectangle-1-2.png",
+      "title": "example title 1",
+      "details": "How to get your first job as a self-taught programmer",
+      "author": "Rita Sharma",
+      "author_img": "https://i.ibb.co/4gTyYmM/portrait-smiling-student-writing-classroom.jpg",
+      "posted_date": "2023-09-10",
+      "reading_time": 15,
+      "hastag": "#beginners, #programming"
+    },
+    {
+      "id": 2,
+      "cover": "https://i.ibb.co/TcbZfps/Rectangle-1-1.png",
+      "title": "example title 2",
+      "details": "How to get your first job as a self-taught programmer",
+      "author": "jane smith",
+      "author_img": "https://i.ibb.co/BnZym6R/pensive-creative-freelancer-taking-notes-planner.jpg",
+      "posted_date": "2023-09-09",
+      "reading_time": 10,
+      "hastag": "#beginners, #programming"
+    },
+    {
+      "id": 3,
+      "cover": "https://i.ibb.co/MgYfbhf/Rectangle-1.png",
+      "title": "example title 3",
+      "details": "How to get your first job as a self-taught programmer",
+      "author": "james brown",
+      "author_img": "https://i.ibb.co/X5hQgqB/young-woman-sitting-table-holding-pen.jpg",
+      "posted_date": "2023-09-08",
+      "reading_time": 20,
+      "hastag": "#beginners, #programming"
+    },
+    {
+      "id": 4,
+      "cover": "https://example.com/cover_url_4",
+      "title": "example title 4",
+      "details": "How to get your first job as a self-taught programmer",
+      "author": "sarah jones",
+      "author_img": "<img src='https://i.ibb.co/BnZym6R/pensive-creative-freelancer-taking-notes-planner.jpg>",
+      "posted_date": "2023-09-07",
+      "reading_time": 12,
+      "hastag": "#beginners, #programming"
+    },
+    {
+      "id": 5,
+      "cover": "https://example.com/cover_url_5",
+      "title": "example title 5",
+      "details": "How to get your first job as a self-taught programmer",
+      "author": "michael white",
+      "author_img": "<img src='https://i.ibb.co/BnZym6R/pensive-creative-freelancer-taking-notes-planner.jpg'>",
+      "posted_date": "2023-09-06",
+      "hastag": "#beginners, #programming"
+    }
+  ]
+  
